@@ -1,0 +1,57 @@
+html{
+    font-family: "Kumbh Sans", sans-serif;
+}
+ #titulo{
+    text-align: center;
+ }
+ #imagen1{
+    width: 400px;
+    height: 150px;
+ }
+ #imagen2{
+    padding-bottom: 0px;
+    padding-left: 750px;
+    width: 150px;
+    height: 150px;
+ }
+h2{
+    color: black;
+    margin-top: -25px;
+}
+h4{
+    color: black;
+}
+.contenedor1{
+    background-color: #ffebcd;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+.contenedor2{
+    background-color: #e6ffcd;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+.contenedor3{
+    background-color: #ffcdcd;
+    border-radius: 20px;
+    padding: 20px 80px;
+}
+.contenedor_de_botones{
+    padding-bottom: 25px;
+    border-radius: 20px;
+}
+.boton1{
+    font-family: "Kumbh Sans", sans-serif;
+    margin-top: 20px;
+    margin-left: 470px;
+    background-color: rgb(189, 186, 186);
+    padding: 5px 5px;
+    border-radius: 20px;
+}
+.boton2{
+    font-family: "Kumbh Sans", sans-serif;
+    margin-left: 5px;
+    background-color: rgb(189, 186, 186);
+    padding: 5px 5px;
+    border-radius: 20px;
+}
